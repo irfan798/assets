@@ -1,5 +1,5 @@
 # Assets
-
+hello
 ## Setup
 
 1. Install [python3](https://www.python.org/downloads/) on your system.
@@ -19,19 +19,19 @@ Asset repository containing all the assets used in the project in both `.png` an
   - [Overview](#overview)
   - [Adding coins to the repository](#adding-coins-to-the-repository)
   - [Config](#config)
-    - [Auto Arrange Icons (auto_arrange)](#auto-arrange-icons-auto_arrange)
+    - [Auto Arrange Icons (auto\_arrange)](#auto-arrange-icons-auto_arrange)
       - [Options](#options)
       - [Example](#example)
-    - [Compress Existing Icons (compress_icons)](#compress-existing-icons-compress_icons)
+    - [Compress Existing Icons (compress\_icons)](#compress-existing-icons-compress_icons)
       - [Options](#options-1)
       - [Example](#example-1)
-    - [Convert icons to different formats (convert_icons)](#convert-icons-to-different-formats-convert_icons)
+    - [Convert icons to different formats (convert\_icons)](#convert-icons-to-different-formats-convert_icons)
       - [Options](#options-2)
       - [Example](#example-2)
   - [Add new icon](#add-new-icon)
-    - [Pre-requisites](#pre-requisites)
-    - [Steps](#steps)
-    - [Output](#output)
+      - [Pre-requisites](#pre-requisites)
+      - [Steps](#steps)
+      - [Output](#output)
 
 ## Adding coins to the repository
 

@@ -4,7 +4,7 @@ from src.config import config
 from src.helper import get_files
 import os
 
-
+# hello
 def auto_arrange():
     asset_items = AssetItems(config.auto_arrange.assets_info_file)
     assets: List[Asset] = []
